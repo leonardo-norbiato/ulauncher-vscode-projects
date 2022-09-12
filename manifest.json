@@ -1,6 +1,6 @@
 {
   "required_api_version": "^2.0.0",
-  "name": "VS Code Projects",
+  "name": "VS Code-insiders Projects",
   "description": "Open your VSCode projects from anywhere using Ulauncher",
   "developer_name": "Fork Leonardo Norbiato - by Bruno Paz",
   "icon": "images/icon.png",
