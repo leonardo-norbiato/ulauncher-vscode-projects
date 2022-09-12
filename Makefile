@@ -1,5 +1,5 @@
 
-EXT_NAME:=com.github.brpaz.ulauncher-vscode-projects
+EXT_NAME:=com.github.leonardo-norbiato.ulauncher-vscode-projects
 EXT_DIR:=$(shell pwd)
 
 .PHONY: help lint format link unlink deps dev setup
