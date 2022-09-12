@@ -2,7 +2,7 @@
   "required_api_version": "^2.0.0",
   "name": "VS Code Projects",
   "description": "Open your VSCode projects from anywhere using Ulauncher",
-  "developer_name": "Bruno Paz",
+  "developer_name": "Fork Leonardo Norbiato - by Bruno Paz",
   "icon": "images/icon.png",
   "options": {
     "query_debounce": 0.1
@@ -20,21 +20,21 @@
       "type": "input",
       "name": "Config path",
       "description": "The path to VSCode's config folder (e.g., update if you are using Code - OSS)",
-      "default_value": "~/.config/Code/"
+      "default_value": "~/.config/Code - Insiders/"
     },
     {
       "id": "projects_file_path",
       "type": "input",
       "name": "Projects File path",
       "description": "The location of of projects file cache created by Project Manager VSCode Extension",
-      "default_value": "~/.config/Code/User/globalStorage/alefragnani.project-manager/"
+      "default_value": "~/.config/Code - Insiders/User/globalStorage/alefragnani.project-manager/"
     },
     {
       "id": "code_executable_path",
       "type": "input",
       "name": "VS Code executable path",
       "description": "The path to the VS Code executable",
-      "default_value": "code"
+      "default_value": "code-insiders"
     },
     {
       "id": "include_recent_workspaces",
